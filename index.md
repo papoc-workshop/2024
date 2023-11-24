@@ -1,12 +1,12 @@
 ---
-title: PaPoC Workshop 2023
+title: PaPoC Workshop 2024
 ---
 
-The 10th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place on May 8th, 2023, in conjunction with [EuroSys 2023](https://2023.eurosys.org).
+The 11th Workshop on Principles and Practice of Consistency for Distributed Data (PaPoC) will take place on April ???th, 2024, in conjunction with [EuroSys 2024](https://2024.eurosys.org).
 
 ### Background
 
-PaPoC 2023 is a successor to previous workshops in this series 
+PaPoC 2024 is a successor to previous workshops in this series
 ([PaPoC 2014](http://eventos.fct.unl.pt/papec/), 
 [PaPoC 2015](http://papoc.di.uminho.pt/), 
 [PaPoC 2016](http://www2.ucsc.edu/papoc-2016/), 
@@ -14,8 +14,9 @@ PaPoC 2023 is a successor to previous workshops in this series
 [PaPoC 2018](https://papoc-workshop.github.io/2018/), 
 [PaPoC 2019](https://novasys.di.fct.unl.pt/conferences/papoc19/), 
 [PaPoC 2020](https://papoc-workshop.github.io/2020/),
-[PaPoC 2021](https://papoc-workshop.github.io/2021/) and
-[PaPoC 2022](https://papoc-workshop.github.io/2022/))
+[PaPoC 2021](https://papoc-workshop.github.io/2021/),
+[PaPoC 2022](https://papoc-workshop.github.io/2022/), and
+[PaPoC 2023](https://papoc-workshop.github.io/2023/))
 which brought together researchers and practitioners in the areas of distributed systems, programming languages, databases, and concurrent programming.
 
 The PaPoC workshop investigates the trade-offs among different consistency models for distributed systems, and their operational characteristics. 
