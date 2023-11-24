@@ -1,2 +1,2 @@
-# 2023
-PaPoC workshop 2023
+# 2024
+PaPoC workshop 2024
