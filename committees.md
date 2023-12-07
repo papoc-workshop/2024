@@ -4,24 +4,11 @@ title: Committees
 # Committees
 
 **Program Chairs**
-* Elisa Gonzalez Boix, Vrije Universiteit Brussel, Belgium
-* Pierre Sutra, Telecom SudParis, France
+* Natacha Crooks, UC Berkeley, USA
+* Philipp Haller, KTH Royal Institute of Technology, Sweden
 
 **Program Committee**
-* Valter Balegas, Electric-SQL
-* Annette Bieniusa, University of Kaiserslautern-Landau, Germany
-* Vitor Enes, Teleport
-* Carla Ferreira, NOVA University of Lisbon, Portugal
-* Gowtham Kaki, University of Colorado, Boulder, USA
-* Lindsey Kuper, University of California, USA
-* Xiaojian Liao, Tsinghua University, China
-* Ragnar Mogk, TU Darmstadt, Germany
-* Shuai Mu, Stony Brook University, USA
-* Kartik Nagar, Indian Institute of Technology, Madras, India
-* Sreeja Nair, ZettaScale
-* Fernando Pedone, University of Lugano, Switzerland
-* Mathieu Perrin, University of Nantes, France
-* Jack Waudby, Neo4j
+* TBD
 
 **Test-of-Time Award Committee**
 * Alysson Bessani, University of Lisbon, Portugal
