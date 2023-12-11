@@ -60,11 +60,11 @@ In case of any questions, please contact the Program Chairs at [papoc23@hotcrp.c
 
 ## Important Dates *(extended)*
 
-| Submission deadline   |Feb 27th ~~Feb 13th~~, 2023|
+| Submission deadline   |February 8th, 2024|
 |---|---|
-| Notification date     |Mar 27th ~~Mar 6th~~, 2023|
-| Camera-Ready deadline |Apr 10th ~~Mar 15th~~, 2023|
-| Workshop              |May 8th, 2023|
+| Notification date     |March 8th, 2024|
+| Camera-Ready deadline |March 15th, 2024|
+| Workshop              |April 22nd, 2024|
 
 All deadline times are 23:59 hrs
 [AoE](https://www.timeanddate.com/time/zones/aoe).
