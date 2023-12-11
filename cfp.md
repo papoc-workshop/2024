@@ -34,10 +34,12 @@ The PaPoC workshop invites submissions of three types:
 2. full papers (up to 12 pages excluding bibliography) which may be concurrently submitted (or accepted) to other venues and do not have the option to be published in the ACM library;
 3. lightning talk abstract, summarized in a maximum of 300 words, reporting preliminary or crazy ideas, new trends, recent experience or ongoing results.
 
-Submissions do not need to be anonymised.
+For the short paper submissions, we will allow authors to submit longer proposals, under the clear understanding that PC members are only expected to read the first 6 pages. Lightning talk abstracts will be limited to 300 words to avoid defeating the nature of a lightning talk.
 
-Authors of accepted **short papers** will have the opportunity to choose whether they want their papers published in ACM Digital Library (along with papers from other EuroSys workshops).
-In any case, accepted papers will be made available to participants of the workshop.
+Submissions do not need to be anonymised. All submissions should be written in English and submitted in PDF format. Paper submissions will be handled by HotCRP.
+
+Papers and abstracts will be distributed to the participants of the workshop. Authors of accepted **short-paper contributions** will have the opportunity to choose whether they want their papers published in the ACM Digital Library (along with papers from the other EuroSys workshops). Lightning talk abstracts and full papers will not be included in the ACM Digital Library.
+
 At least one author of each accepted submission is expected to present their work at the workshop, and to be available for discussions.
 
 ## How to submit your work
