@@ -44,7 +44,7 @@ At least one author of each accepted submission is expected to present their wor
 
 ## How to submit your work
 
-Submissions should be made [via HotCRP](https://papoc23.hotcrp.com/).
+Submissions should be made [via HotCRP](https://papoc24.hotcrp.com/).
 
 All submissions should be written in English and provided in PDF format. 
 We suggest that you use the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template), but this is not required.
@@ -56,7 +56,7 @@ To anonymize your submission, just pass the `anonymous` option to `acmart.cls`.
 	\renewcommand\footnotetextcopyrightpermission[1]{}
 	\settopmatter{printfolios=true,printacmref=false}
 
-In case of any questions, please contact the Program Chairs at [papoc23@hotcrp.com](mailto:papoc23@hotcrp.com).
+In case of any questions, please contact the Program Chairs at [papoc24@hotcrp.com](mailto:papoc24@hotcrp.com).
 
 ## Important Dates *(extended)*
 
