@@ -8,7 +8,17 @@ title: Committees
 * Philipp Haller, KTH Royal Institute of Technology, Sweden
 
 **Program Committee**
-* TBD
+* Adriana Szekeres, VMWare Research, USA
+* Annette Bieniusa, University of Kaiserslautern, Germany
+* Cheng Li, University of Science and Technology, China
+* Haonan Lu, University of Buffalo, USA
+* Heather Miller, Carnegie Mellon University, USA
+* Joao Loff, INESC-ID, University of Lisbon, Portugal,
+* KC Sivaramakrishnan, IIT Madras, USA
+* Mae Milano, Princeton University, USA, 
+* Paris Carbone, KTH Royal Institute of Technology, Sweden
+* Pascal Weisenburger, University of St Gallen, Switzerland
+
 
 **Test-of-Time Award Committee**
 * Alysson Bessani, University of Lisbon, Portugal
