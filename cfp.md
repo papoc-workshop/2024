@@ -56,7 +56,12 @@ To anonymize your submission, just pass the `anonymous` option to `acmart.cls`.
 	\renewcommand\footnotetextcopyrightpermission[1]{}
 	\settopmatter{printfolios=true,printacmref=false}
 
-In case of any questions, please contact the Program Chairs at [papoc23@hotcrp.com](mailto:papoc23@hotcrp.com).
+For camera ready, please instead rely on the following template.
+You should use the acmart document class (https://www.acm.org/publications/proceedings-template, the same as for submission), as follows:
+
+    \documentclass[sigplan,10pt]{acmart}
+
+In case of any questions, please contact the Program Chairs at [papoc24@hotcrp.com](mailto:papoc24@hotcrp.com).
 
 ## Important Dates (Extended)
 
